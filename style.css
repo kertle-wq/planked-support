@@ -1,0 +1,5 @@
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;color:#f6e8c2;background:#0b1a2c}
+header{background:#0b1a2c url(social.png) center/cover;padding:72px 20px;text-align:center;text-shadow:0 2px 12px #000}
+header h1{font:900 clamp(44px,10vw,84px)/1 Georgia,serif;letter-spacing:.06em;margin:0;color:#ffd45a}header p{margin:10px 0 0;letter-spacing:.3em;font-size:13px}
+main{max-width:720px;margin:0 auto;padding:28px 20px 64px}h2{color:#ffd45a;font-family:Georgia,serif;margin-top:36px}a{color:#7fd8ff}
+.card{background:#12263d;border:1px solid #2b4666;border-radius:14px;padding:16px 18px;margin:14px 0}footer{text-align:center;opacity:.6;font-size:13px;padding:24px}
